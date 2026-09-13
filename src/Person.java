@@ -1,7 +1,7 @@
 public class Person {
 
-    private String firstName = "";
-    private String lastName= "";
+    private String firstName = null;
+    private String lastName= null;
     private int age = 0;
 
     public String getFirstName (){
