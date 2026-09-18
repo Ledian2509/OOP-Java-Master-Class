@@ -1,7 +1,7 @@
 public class BankAccount {
 
     private int accountNumber = 0;
-    private Double accountBalance = 0.0;
+    private double accountBalance = 0.0;
     private String customerName = "New";
     private String email = "New";
     private String phoneNumber = "XXX-XXX-XXXX";
